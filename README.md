@@ -27,7 +27,7 @@ removing and sorting of the inventory
 ### Veloctity 
 no velocity to the player when hit by an enemy
 
-## ! information !
 
-I'm aware of the fact that clients like these usually work best when working with packets sent to the server.Even though I did this from time to time,my primary goal was to get familiar with Java and its concepts,not to code a hvh('Hacker vs Hacker') client.
+
+<bold>I'm aware of the fact that clients like these usually work best when working with packets sent to the server.Even though I did this from time to time,my primary goal was to get familiar with Java and its concepts,not to code a hvh('Hacker vs Hacker') client<bold>
 
