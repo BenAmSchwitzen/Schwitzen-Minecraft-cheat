@@ -26,6 +26,8 @@ Putting on the best armor you've got
 removing and sorting of the inventory
 ### Veloctity 
 no velocity to the player when hit by an enemy
+### Tracer
+drawing lines from the player to his enemies
 
 
 
