@@ -16,7 +16,8 @@ This is a <strong>Minecraft 1.8 Java Edition Cheat-Client</strong> which was use
 
 ## Module
 
-### Killaura (Attacking/targeting nearby enemies automatically)
+### Killaura 
+## (Attacking/targeting nearby enemies automatically)
 ### Scaffold (Placing blocks in front of you while walking)
 ### AutoArmor (Putting on the best armor you've got)
 ### InventoryManger (removing and sorting of the inventory)
