@@ -12,3 +12,16 @@ This is a <strong>Minecraft 1.8 Java Edition Cheat-Client</strong> which was use
 ## HUD(target)
 
 ![Base Profile Screenshot 2023 10 10 - 17 55 44 07](https://github.com/BenAmSchwitzen/Schwitzen-0.1-Minecraft-cheat/assets/135648700/10af70c5-8776-429c-a8b7-6e347de4edaa)
+
+
+## Module
+
+### Killaura (Attacking/targeting nearby enemies automatically)
+### Scaffold (Placing blocks in front of you while walking)
+### AutoArmor (Putting on the best armor you've got)
+### InventoryManger (removing and sorting of the inventory)
+### Veloctity (no velocity)
+
+
+I'm aware of the fact that clients like these usually work best when working with packets sent to the server.Even though I did this from time to time,my primary goal was to get familiar with Java and its concepts,not to code a hvh('Hacker vs Hacker') client.
+
