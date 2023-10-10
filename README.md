@@ -28,6 +28,8 @@ removing and sorting of the inventory
 no velocity to the player when hit by an enemy
 ### Tracer
 drawing lines from the player to his enemies
+### ESP
+marking enemies by drawing a yellow line above their heads
 
 
 
