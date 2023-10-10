@@ -18,6 +18,8 @@ This is a <strong>Minecraft 1.8 Java Edition Cheat-Client</strong> which was use
 
 ### Killaura 
 Attacking/targeting nearby enemies automatically
+### Antibot
+killaura attacks only players (bots are getting removed from the entity list)
 ### Scaffold 
 Placing blocks in front of you while walking
 ### AutoArmor 
